@@ -2,7 +2,7 @@
 {
   "config_version": 1,
   "ads_enabled": true,
-  "test_mode": false,
+  "test_mode": true,
   "cache_minutes": 5,
   "banner_enabled": true,
   "native_enabled": true,
