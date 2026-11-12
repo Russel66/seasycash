@@ -1,15 +1,15 @@
 
 {
   "config_version": 1,
-  "ads_enabled": true,
-  "test_mode": true,
+  "ads_enabled": false,
+  "test_mode": false,
   "cache_minutes": 5,
   "banner_enabled": true,
-  "native_enabled": true,
-  "interstitial_enabled": true,
-  "rewarded_enabled": true,
-  "app_open_enabled": true,
-  "reward_lock_enabled": true,
+  "native_enabled": false,
+  "interstitial_enabled": false,
+  "rewarded_enabled": false,
+  "app_open_enabled": false,
+  "reward_lock_enabled": false,
   "ad_units": {
     "banner": "ca-app-pub-3940256099942544/9214589741",
     "native": "ca-app-pub-3940256099942544/2247696110",
@@ -18,8 +18,8 @@
     "app_open": "ca-app-pub-3940256099942544/9257395921"
   },
   "reward_features": {
-    "loan_analysis": true,
-    "loan_calculator": true,
+    "loan_analysis": false,
+    "loan_calculator": false,
     "loan_comparison": false,
     "motorcycle_simulation": false,
     "car_simulation": false,
